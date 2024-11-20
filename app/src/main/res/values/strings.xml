@@ -1,0 +1,7 @@
+<resources>
+    <string name="intro_title">Welcome to Our Store</string>
+    <string name="intro_sub_title">Discover the best products right at your fingertips.</string>
+    <string name="letgo">Let’s Go</string>
+    <string name="sign">Already have an account? Sign In</string>
+    <string name="app_name">Ecommerce</string>
+</resources>
